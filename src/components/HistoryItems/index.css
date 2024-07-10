@@ -1,0 +1,36 @@
+.items-con {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: center;
+}
+.top {
+  display: flex;
+}
+.time {
+  margin-right: 40px;
+  color: #475569;
+  font-weight: bold;
+}
+.text {
+  margin-right: 15px;
+}
+.url {
+  margin-right: 15px;
+  color: #64748b;
+}
+.below {
+}
+.logo {
+  height: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 10px;
+}
+.del-img {
+  height: 20px;
+}
+button {
+  border: none;
+  background-color: transparent;
+}
